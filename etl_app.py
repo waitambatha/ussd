@@ -10,7 +10,7 @@ load_dotenv()
 
 
 # Title of the app
-st.title(" ussd sesssions with streamlit ")
+st.title(" USSD SESSIONS WITH STREAMLIT ")
 
 # Step 1: Extract - Load the predefined CSV file
 st.header("Step 1: Extract")
